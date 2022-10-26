@@ -1,0 +1,27 @@
+[
+    {
+        "id": "1",
+        "name": "Mathmatics"
+
+    },
+    {
+        "id":"2",
+        "name":"Data Structures"
+    },
+    {
+        "id": "3",
+        "name": "OOP"
+    },
+    {
+        "id": "4",
+        "name": "Software Engineering"
+    },
+    {
+        "id": "5",
+        "name":"Database Management System"
+    },
+    {
+        "id": "6",
+        "name": "Computer Networks"
+    }
+]
